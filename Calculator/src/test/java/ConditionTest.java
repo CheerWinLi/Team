@@ -20,4 +20,6 @@ public class ConditionTest {
     public void testNumberSize(){
         Main.main(null);
     }
+
+
 }
